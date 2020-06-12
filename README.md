@@ -1,8 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Prathamanchan/Prathamanchan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Pratham, 23 year old. I completed my B.Tech (2014-2018) in the Department of Electronics and Communication Engineering at NMAMIT Nitte. My research interests include VLSI, embedded system and programming. During my B.Tech, I worked research projects on Crappy Cash a bio and plastic waste segregator as an initiative to swacch bharath.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Presently, I am exploring various fields that I am not acquanited to. I believe they will ultimately help me to do better research in my field by understanding the needs and concerns of societies. In this journey, I’ve completed more than 5 online courses on the MOOC platforms such as edX and NPTEL.
 
 ### Markdown
 
