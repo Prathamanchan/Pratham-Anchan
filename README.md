@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About Me
 
-I'm Pratham, 23 year old. I completed my B.Tech (2014-2018) in the Department of Electronics and Communication Engineering at NMAMIT Nitte. My research interests include VLSI, embedded system and programming. During my B.Tech, I worked research projects on Crappy Cash a bio and plastic waste segregator as an initiative to swacch bharath.
+I'm Pratham, 23 year old. I completed my B.Tech (2014-2018) in the Department of Electronics and Communication Engineering at NMAMIT Nitte. My research interests include VLSI, embedded system and robotics. During my B.Tech, I worked research projects on Crappy Cash a bio and plastic waste segregator as an initiative to swachh bharat.
 
 
 Presently, I am exploring various fields that I am not acquanited to. I believe they will ultimately help me to do better research in my field by understanding the needs and concerns of societies. In this journey, I’ve completed more than 5 online courses on the MOOC platforms such as edX and NPTEL.
 
-### Markdown
+### Recent updates
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To make the best use of my free time I develop a habits that help me in future
 
 ```markdown
-Syntax highlighted code block
+* Completed one online course on Robotics October 2019.
+* Participated in 15 day the internship program in ONGC Mangalore.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [My Blogs](https://medium.com/@prathamanchan22).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prathamanchan/Prathamanchan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Mini Projects
+[Stack Game Automated](https://www.youtube.com/watch?v=LYnf7kfyzxw)
+[Home Automation using 8051](https://www.youtube.com/watch?v=G0y6h0vqo7w)
 
 ### Support or Contact
 
