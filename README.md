@@ -19,6 +19,7 @@ For more details see [My Blogs](https://medium.com/@prathamanchan22).
 
 ### Mini Projects
 [Stack Game Automated](https://www.youtube.com/watch?v=LYnf7kfyzxw)
+
 [Home Automation using 8051](https://www.youtube.com/watch?v=G0y6h0vqo7w)
 
 ### Support or Contact
